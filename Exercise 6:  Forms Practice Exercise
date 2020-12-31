@@ -1,0 +1,12 @@
+<form action="">
+    <p>
+    <label for="username">username</label>
+    <input type="text" id="username" placeholder="username " name="username"></p>
+    <p>
+     <label for="password">password</label>
+    <input type="password" id="password" placeholder="password " name="password"></p>
+    <p>
+<button>Register</button>
+     </p>   
+  
+</form>
